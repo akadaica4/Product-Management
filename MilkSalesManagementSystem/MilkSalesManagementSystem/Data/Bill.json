@@ -1,0 +1,16 @@
+[
+  {
+    "MaSp": 1,
+    "TenSp": "vinamilk",
+    "Soluong": 5,
+    "Gia": 250000.0,
+    "TongTien": 1250000.0
+  },
+  {
+    "MaSp": 2,
+    "TenSp": "ensure",
+    "Soluong": 5,
+    "Gia": 500000.0,
+    "TongTien": 2500000.0
+  }
+]

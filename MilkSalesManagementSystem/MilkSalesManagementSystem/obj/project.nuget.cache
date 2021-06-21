@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7kNhX+3jDe4fRXT/TiFi9DFzRh6QslOT7vvzazKM6XmnFf7oNIspohPo1+3xAS1axkLInw4kxnFp/3SbriQoA==",
+  "success": true,
+  "projectFilePath": "D:\\module 2\\CaseStudyModule2\\Product-Management\\MilkSalesManagementSystem\\MilkSalesManagementSystem\\MilkSalesManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

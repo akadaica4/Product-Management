@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "MaSp": 1,
+      "TenSp": "Vinamilk",
+      "Soluong": 50,
+      "Gia": 250000
+    },
+    {
+      "MaSp": 2,
+      "TenSp": "Ensure",
+      "Soluong": 50,
+      "Gia": 500000
+    },
+    {
+      "MaSp": 3,
+      "TenSp": "Nutifood",
+      "Soluong": 50,
+      "Gia": 300000
+    },
+    {
+      "MaSp": 4,
+      "TenSp": "Alpha",
+      "Soluong": 50,
+      "Gia": 175000
+    }
+  ]
+}

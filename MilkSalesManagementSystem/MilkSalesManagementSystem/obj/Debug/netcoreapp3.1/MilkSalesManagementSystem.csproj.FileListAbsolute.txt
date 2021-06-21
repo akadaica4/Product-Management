@@ -1,0 +1,15 @@
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\bin\Debug\netcoreapp3.1\MilkSalesManagementSystem.exe
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\bin\Debug\netcoreapp3.1\MilkSalesManagementSystem.deps.json
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\bin\Debug\netcoreapp3.1\MilkSalesManagementSystem.runtimeconfig.json
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\bin\Debug\netcoreapp3.1\MilkSalesManagementSystem.runtimeconfig.dev.json
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\bin\Debug\netcoreapp3.1\MilkSalesManagementSystem.dll
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\bin\Debug\netcoreapp3.1\MilkSalesManagementSystem.pdb
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\obj\Debug\netcoreapp3.1\MilkSalesManagementSystem.csproj.AssemblyReference.cache
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\obj\Debug\netcoreapp3.1\MilkSalesManagementSystem.AssemblyInfoInputs.cache
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\obj\Debug\netcoreapp3.1\MilkSalesManagementSystem.AssemblyInfo.cs
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\obj\Debug\netcoreapp3.1\MilkSalesManagementSystem.csproj.CoreCompileInputs.cache
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\obj\Debug\netcoreapp3.1\MilkSalesManagementSystem.csproj.CopyComplete
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\obj\Debug\netcoreapp3.1\MilkSalesManagementSystem.dll
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\obj\Debug\netcoreapp3.1\MilkSalesManagementSystem.pdb
+D:\module 2\CaseStudyModule2\Product-Management\MilkSalesManagementSystem\MilkSalesManagementSystem\obj\Debug\netcoreapp3.1\MilkSalesManagementSystem.genruntimeconfig.cache
